@@ -1,0 +1,14 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHgE3_YKFrDG8z_OgAIasXmP_vx5eMOGBFF7vhneRdoIEf1Aq");
+background-size:100%;
+  background-attachment:fixed;
+  color:white;
+  font-family: "times roman";
+
+}
+h2{
+  display: inline;
+}
+#start{
+  margin: 10px;
+}
